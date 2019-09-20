@@ -1,0 +1,7 @@
+{
+  "name": "phonerecommender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ben <ponkey@rpgpn.co.uk>",
+  "license": "MIT"
+}
